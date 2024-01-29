@@ -1,0 +1,6 @@
+{
+    "python.listing.pylintEnabled": false,
+    "python.listing.mypyEnabled" : false,
+    "python.listing.flake8Enabled" : true,
+    "python.listing.enabled" : true
+}
